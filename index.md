@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog 23333
+title: Welcome to my blog
 ---
 i am Jyogo
